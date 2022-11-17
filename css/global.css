@@ -1,0 +1,13 @@
+body {
+  margin: 0px auto;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  text-align: center;
+  border-radius: 4px;
+}
+
+ul,
+a {
+  list-style: none;
+  text-decoration: none;
+}
